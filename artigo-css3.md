@@ -1,48 +1,7 @@
-<!DOCTYPE HTML>
-<html lang="pt-br">
+INTRODUÇÃO
 
-<head>
-    <meta charset="UTF-8">
-    <title>Artigos | CSS 3 e Atomiscs</title>
-    <!-- Aqui chamamos o nosso arquivo css externo -->
-    <link rel="stylesheet" type="text/css" href="css/estilo2.css" />
-    <!--[if lte IE 8]>
- <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
- <![endif]-->
-</head>
 
-<body>
-    <section>
-        <nav id="menuHeader">
-            <ul class="menu">
 
-                <li><a href="ArtigoCss3.html">Artigo Css3 </a>
-                    <ul>
-                        <li><a href="Transformation.html">2D/3D Transformations</a></li>
-                        <li><a href="#item3">Box Model</a></li>
-                        <li><a href="#item4">Backgrounds</a></li>
-                        <li><a href="#item5">Borders</a></li>
-                        <li><a href="#item6">Image Values</a></li>
-                        <li><a href="#item7">Replaced Content</a></li>
-                        <li><a href="#item8">Selectors</a></li>
-                        <li><a href="#item9">Animations</a></li>
-                        <li><a href="#item10">Multiple Column Layout</a></li>
-                        <li><a href="#item11">User Interface</a></li>
-                    </ul>
-                </li>
-                <li><a href="ArtigoAtomics.html" >Artigo Atomics</a>
-
-                </li>
-            </ul>
-        </nav>
-    </section>
-    
-    <div>
-        
-    
-    </div>
-    
-    
-</body>
-
-</html>
+            Css ou Cascading Style Sheets é um poderoso recurso de designer web que formata a informação entregue pelo Html. Através dele e possível definir estilos e variações para deixá-las mais elegantes e atrativas para os usuários. 
+            O Css surgiu quando a programação para web esta criando seus pilares, inicialmente para atender a necessidade de criar um padrão para renderizar as paginas e posteriormente para agilizar este processo. O Css foi um marco para a programão web, já que permitiu um compartilhamento de formato e reduziu a repetição no conteúdo estrutural de uma página. Muitas funcionalidade foram implementadas e melhoradas. as animações e transições ganharam várias funcionalidade e deixaram experiência do usuário em outro patamar. . Os seletores são a alma do CSS3, utilizando de forma eficaz é possível tornar o código escalável e inteligente. A possibilidade de atribuirmos múltiplos backgrounds em apenas um elemento é a feature que vai ajudá-lo a não sujar seu código.
+            A combinação de Html5 e CSS 3, promove ao desenvolvedor uma integração nativa capaz de construir efeitos de rotação, movimento e transição, animações tanto em 2D quanto em 3D, possibilitando a construção de softwares cada vez mais interativos e complexos.
