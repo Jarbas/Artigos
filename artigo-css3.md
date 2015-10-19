@@ -62,7 +62,7 @@ div:hover {
 }
 ```
 
-<a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="Transition Implementados neste link.">Transformes implementados em  site particular </a>
+<a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="Transition Implementados neste link.">Transition Implementados neste link </a>
 
 <footer>
 Fonte :http://www.w3schools.com/css/css3_transitions.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
@@ -87,7 +87,7 @@ div:hover {
 }
 ```
 
-<a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="Animations Implementados neste link.">Transformes implementados em  site particular </a>
+<a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="Animations Implementados neste link.">Animations Implementados neste link </a>
 
 <footer>
 Fonte:http://www.w3schools.com/css/css3_animations.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
@@ -109,7 +109,7 @@ As diferentes imagens de fundo são separados por vírgulas, e as imagens são e
 }
 ```
 
-<a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="BackGrounds Implementados neste link.">Transformes implementados em  site particular </a>
+<a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="BackGrounds Implementados neste link.">BackGrounds Implementados neste link </a>
 
 <footer>
 Fonte:http://www.w3schools.com/css/css3_backgrounds.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
