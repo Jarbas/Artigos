@@ -26,6 +26,8 @@ Referência de onde extraiu o conteúdo apresentado.
 
 Esta propriedade tem a funcionalidade aplicar alguns efeitos visuais nos elementos da tela. Efeitos com girar, transformar, redimencionar, e inclinar deixam os elementos mais interativos. Podem ser aplicados de diversas formas, como: jogos, interações com usuarios, tranformações de textos.
 
+<h3> Como usar? </h3>
+
 ```html
 div {
     -ms-transform: rotate(7deg); /* IE 9 */
@@ -43,7 +45,9 @@ Fonte : http://www.w3schools.com/cssref/css3_pr_transform.asp consulta: <dateTim
 
 <h2>CSS3 Transition </h2>
 
-Esta propriedade tem a funcionalidade aplicar alguns efeitos visuais nos elementos da tela. Efeitos com girar, transformar, redimencionar, e inclinar deixam os elementos mais interativos. Podem ser aplicados de diversas formas, como: jogos, interações com usuarios, tranformações de textos.
+A função transition permite que você altere os valores de propriedade de um elemento causando um efeitos visuais durante um determinado período, pode ser nos eventos do mouse ou eventos da tela. Pode ser usado para altefar um elemento e chamar a atenção do usuario, deixando a tela mais interativa.
+
+<h3> Como usar? </h3>
 
 ```html
 div {
@@ -61,5 +65,5 @@ div:hover {
 <a href="http://jarbascoltro.weebly.com/transformations.html" target="_blank" title="Transforms Implementados.">Transformes implementados em  site particular </a>
 
 <footer>
-Fonte : http://www.w3schools.com/cssref/css3_pr_transform.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
+Fonte :http://www.w3schools.com/css/css3_transitions.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
 </footer>
