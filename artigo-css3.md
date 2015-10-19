@@ -35,7 +35,7 @@ div {
     transform: rotate(7deg);
 } 
 ```
-<a href="http://jarbascoltro.weebly.com/transformations.html" target="_blank" title="Transforms Implementados.">Transformes implementados em  site particular </a>
+<a href="http://jarbascoltro.weebly.com/css3.html.html" target="_blank" title="Transforms Implementados neste link.">Transformes implementados em  site particular </a>
 
 <footer>
 Fonte : http://www.w3schools.com/cssref/css3_pr_transform.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
@@ -62,8 +62,33 @@ div:hover {
 }
 ```
 
-<a href="http://jarbascoltro.weebly.com/transformations.html" target="_blank" title="Transforms Implementados.">Transformes implementados em  site particular </a>
+<a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="Transition Implementados neste link.">Transformes implementados em  site particular </a>
 
 <footer>
 Fonte :http://www.w3schools.com/css/css3_transitions.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
+</footer>
+
+<h2>CSS3 Animations </h2>
+
+A função Animation  permite que um elemento mude de um estilo para outro de forma interativa e animada sem a utilização de javascript e flash. Voce pode usar no contexto de criação de jogos e animações para sites.
+
+<h3> Como usar? </h3>
+
+```html
+div {
+    width: 100px;
+    height: 100px;
+    background: red;
+    -webkit-transition: width 2s; /* Safari */
+    transition: width 2s;
+}
+div:hover {
+    width: 300px;
+}
+```
+
+<a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="Animations Implementados neste link.">Transformes implementados em  site particular </a>
+
+<footer>
+Fonte:http://www.w3schools.com/css/css3_animations.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
 </footer>
