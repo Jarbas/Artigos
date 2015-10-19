@@ -70,7 +70,7 @@ Fonte :http://www.w3schools.com/css/css3_transitions.asp consulta: <dateTime> 12
 
 <h2>CSS3 Animations </h2>
 
-A função Animation  permite que um elemento mude de um estilo para outro de forma interativa e animada sem a utilização de javascript e flash. Voce pode usar no contexto de criação de jogos e animações para sites.
+A função Animation permite que um elemento mude de um estilo de forma interativa e animada sem a utilização de javascript e flash. Voce pode usar no contexto de criação de jogos e animações para sites.
 
 <h3> Como usar? </h3>
 
@@ -91,4 +91,26 @@ div:hover {
 
 <footer>
 Fonte:http://www.w3schools.com/css/css3_animations.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
+</footer>
+
+<h2>CSS3 Multiplos Background </h2>
+
+CSS3 permite adicionar múltiplas imagens de fundo para um elemento, através do background-image propriedade.
+
+As diferentes imagens de fundo são separados por vírgulas, e as imagens são empilhados em cima uns dos outros, em que a primeira imagem é mais próximo do espectador.
+
+<h3> Como usar? </h3>
+
+```html
+#example1 {
+    background-image: url(img_flwr.gif), url(paper.gif);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+}
+```
+
+<a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="BackGrounds Implementados neste link.">Transformes implementados em  site particular </a>
+
+<footer>
+Fonte:http://www.w3schools.com/css/css3_backgrounds.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
 </footer>
