@@ -33,8 +33,7 @@ div {
     transform: rotate(7deg);
 } 
 ```
-
-<a href="http://jarbascoltro.weebly.com/transformations.html" target="_blank" title="Transforms Implementados.">Transformes</a>
+<a href="http://jarbascoltro.weebly.com/transformations.html" target="_blank" title="Transforms Implementados.">Transformes implementados em  site particular </a>
 
 <footer>
 Fonte : http://www.w3schools.com/cssref/css3_pr_transform.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
@@ -42,17 +41,25 @@ Fonte : http://www.w3schools.com/cssref/css3_pr_transform.asp consulta: <dateTim
 
 
 
-<h2>CSS3 Transition Property </h2>
+<h2>CSS3 Transition </h2>
 
 Esta propriedade tem a funcionalidade aplicar alguns efeitos visuais nos elementos da tela. Efeitos com girar, transformar, redimencionar, e inclinar deixam os elementos mais interativos. Podem ser aplicados de diversas formas, como: jogos, interações com usuarios, tranformações de textos.
 
 ```html
 div {
-    -ms-transform: rotate(7deg); /* IE 9 */
-    -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
-    transform: rotate(7deg);
-} 
+    width: 100px;
+    height: 100px;
+    background: red;
+    -webkit-transition: width 2s; /* Safari */
+    transition: width 2s;
+}
+div:hover {
+    width: 300px;
+}
 ```
+
+<a href="http://jarbascoltro.weebly.com/transformations.html" target="_blank" title="Transforms Implementados.">Transformes implementados em  site particular </a>
+
 <footer>
 Fonte : http://www.w3schools.com/cssref/css3_pr_transform.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
 </footer>
