@@ -22,7 +22,7 @@ Apresentar um exemplo de uso dessa funcionalidade.
 Referência de onde extraiu o conteúdo apresentado.
 ```
 
-<h2>CSS3 Transform 2d e 3d Property </h2>
+<h2>CSS3 Transforms </h2>
 
 Esta propriedade tem a funcionalidade aplicar alguns efeitos visuais nos elementos da tela. Efeitos com girar, transformar, redimencionar, e inclinar deixam os elementos mais interativos. Podem ser aplicados de diversas formas, como: jogos, interações com usuarios, tranformações de textos.
 
@@ -33,6 +33,8 @@ div {
     transform: rotate(7deg);
 } 
 ```
+
+<a href="http://jarbascoltro.weebly.com/transformations.html" target="_blank" title="Transforms Implementados.">Transformes</a>
 
 <footer>
 Fonte : http://www.w3schools.com/cssref/css3_pr_transform.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
