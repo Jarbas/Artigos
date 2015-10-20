@@ -93,6 +93,40 @@ div:hover {
 Fonte:http://www.w3schools.com/css/css3_animations.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
 </footer>
 
+<h2> CSS3 Box flexível </h2>
+
+Os box flexíveis  é um recurso que permite acomodar os elementos de forma previsível, deixando confiavel o layout da pagina sobre os diferentes tamanhos de tela e diferentes dispositivos de exibição. É utilizado para alinhar um elemnto de forma dinamica, organizando o layout horizontamente, vericalmente e outras propriedades.
+
+<h3> Como usar? </h3>
+
+```html
+body {
+    direction: rtl;
+}
+
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    width: 400px;
+    height: 250px;
+    background-color: lightgrey;
+}
+
+.flex-item {
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+```
+
+<a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="Box flexível Implementados neste link.">Box flexível Implementados neste link</a>
+
+<footer>
+Fonte:http://www.w3schools.com/css/css3_flexbox.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
+</footer>
+
+
 <h2>CSS3 Multiplos Background </h2>
 
 CSS3 permite adicionar múltiplas imagens de fundo para um elemento, através do background-image propriedade.
@@ -176,5 +210,24 @@ div {
 
 <footer>
 Fonte:http://www.w3schools.com/css/css3_borders.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
+</footer>
+
+<h2> CSS3 Media Queries </h2>
+
+A função Media Queries permite consultar atributos das mídias e alterar seu codigo para melhor adaptação. Pode ser utilizado para melhorar a usubilidade do sistema sobre o hardware.
+
+<h3> Como usar? </h3>
+
+```html
+@media screen and (min-width: 480px) {
+    #leftsidebar {width: 200px; float: left;}
+    #main {margin-left:216px;}
+}
+```
+
+<a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="Media Queries Implementados neste link.">Media Queries Implementados neste link</a>
+
+<footer>
+Fonte:http://www.w3schools.com/css/css3_mediaqueries.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
 </footer>
 
