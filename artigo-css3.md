@@ -1,10 +1,10 @@
-<h1> Unoesc Chapecó </h1> 
-<h1>  Pós-graduação em Desenvolvimento Web, Cloud e dispositivos móveis - WebMob </h1> 
-<h1> Disciplina: HTML5+CSS3 </h1> 
-<h1> Professor: Jean Carlo Nascimento </h1> 
-Acadêmico(a): Jarbas Coltro
-Artigo de revisão de CSS3
-<h1> Introdução </h1>
+<h3> Unoesc Chapecó </h3> 
+<h3>   Pós-graduação em Desenvolvimento Web, Cloud e dispositivos móveis - WebMob </h3> 
+<h3>  Disciplina: HTML5+CSS3 </h3> 
+<h3>  Professor: Jean Carlo Nascimento </h3>  
+<h3> Acadêmico(a): Jarbas Coltro</h3> 
+<h3> Artigo de revisão de CSS3</h3> 
+<h3>  Introdução </h3> 
 
 <article>
 O CSS ou Cascading Style Sheets é um poderoso recurso de designer web que formata a informação entregue pelo Html. Através do Css é possível definir estilos e variações, deixando do visual mais elegantes e atrativo para o usuário. 
