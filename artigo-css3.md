@@ -29,7 +29,7 @@ div {
 <a href="http://jarbascoltro.weebly.com/css3.html.html" target="_blank" title="Transforms Implementados neste link.">Transformes implementados em  site particular </a>
 
 <footer>
-Fonte : http://www.w3schools.com/cssref/css3_pr_transform.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
+Fonte : http://www.w3schools.com/cssref/css3_pr_transform.asp consulta: <dateTime> 14/10/2015 22:00 </dateTime> <br/>
 </footer>
 
 
@@ -56,7 +56,7 @@ div:hover {
 <a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="Transition Implementados neste link.">Transition Implementados neste link </a>
 
 <footer>
-Fonte :http://www.w3schools.com/css/css3_transitions.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
+Fonte :http://www.w3schools.com/css/css3_transitions.asp consulta: <dateTime> 15/10/2015 18:00 </dateTime> <br/>
 </footer>
 
 <h2>CSS3 Animations </h2>
@@ -81,7 +81,7 @@ div:hover {
 <a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="Animations Implementados neste link.">Animations Implementados neste link </a>
 
 <footer>
-Fonte:http://www.w3schools.com/css/css3_animations.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
+Fonte:http://www.w3schools.com/css/css3_animations.asp consulta: <dateTime> 17/10/2015 27:00 </dateTime> <br/>
 </footer>
 
 <h2> CSS3 Media Queries </h2>
@@ -100,7 +100,7 @@ A função Media Queries permite consultar atributos das mídias e alterar seu c
 <a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="Media Queries Implementados neste link.">Media Queries Implementados neste link</a>
 
 <footer>
-Fonte:http://www.w3schools.com/css/css3_mediaqueries.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
+Fonte:http://www.w3schools.com/css/css3_mediaqueries.asp consulta: <dateTime> 17/10/2015 20:00 </dateTime> <br/>
 </footer>
 
 <h2> CSS3 Box flexível </h2>
@@ -133,7 +133,7 @@ body {
 <a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="Box flexível Implementados neste link.">Box flexível Implementados neste link</a>
 
 <footer>
-Fonte:http://www.w3schools.com/css/css3_flexbox.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
+Fonte:http://www.w3schools.com/css/css3_flexbox.asp consulta: <dateTime> 17/10/2015 21:00 </dateTime> <br/>
 </footer>
 
 
@@ -155,7 +155,7 @@ As diferentes imagens de fundo são separados por vírgulas, e as imagens são e
 <a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="BackGrounds Implementados neste link.">BackGrounds Implementados neste link </a>
 
 <footer>
-Fonte:http://www.w3schools.com/css/css3_backgrounds.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
+Fonte:http://www.w3schools.com/css/css3_backgrounds.asp consulta: <dateTime> 17/10/2015 22:00 </dateTime> <br/>
 </footer>
 
 <h2>CSS3 Gradients </h2>
@@ -177,7 +177,7 @@ A função gradiente permite exibir a transição de cores no elemento. Antigame
 <a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="Gradientes Implementados neste link.">Gradientes Implementados neste link </a>
 
 <footer>
-Fonte:http://www.w3schools.com/css/css3_gradients.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
+Fonte:http://www.w3schools.com/css/css3_gradients.asp consulta: <dateTime> 18/10/2015 13:00 </dateTime> <br/>
 </footer>
 
 
@@ -198,7 +198,7 @@ div {
 <a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="Multi Colunas Implementados neste link.">Multi Colunas Implementados neste link</a>
 
 <footer>
-Fonte:http://www.w3schools.com/css/css3_multiple_columns.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
+Fonte:http://www.w3schools.com/css/css3_multiple_columns.asp consulta: <dateTime> 18/10/2015 14:00 </dateTime> <br/>
 </footer>
 
 
@@ -219,25 +219,24 @@ div {
 <a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="Borders Colunas Implementados neste link.">Borders radiun  Implementados neste link</a>
 
 <footer>
-Fonte:http://www.w3schools.com/css/css3_borders.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
+Fonte:http://www.w3schools.com/css/css3_borders.asp consulta: <dateTime> 19/10/2015 22:00 </dateTime> <br/>
 </footer>
 
 <h2> CSS3 Shadow Effects </h2>
 
-A função Media Queries permite consultar atributos das mídias e alterar seu codigo para melhor adaptação. Pode ser utilizado para melhorar a usubilidade do sistema sobre o hardware.
+A função permite colocar sombras nos textos. Pode ser usado para agregar efeitos de designer.
 
 <h3> Como usar? </h3>
 
 ```html
-@media screen and (min-width: 480px) {
-    #leftsidebar {width: 200px; float: left;}
-    #main {margin-left:216px;}
+h1 {
+    text-shadow: 2px 2px 5px red;
 }
 ```
 
-<a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="Media Queries Implementados neste link.">Media Queries Implementados neste link</a>
+<a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title=" CSS3 Shadow Effects Implementados neste link."> CSS3 Shadow Effects Implementados neste link</a>
 
 <footer>
-Fonte:http://www.w3schools.com/css/css3_mediaqueries.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
+Fonte:http://www.w3schools.com/css/css3_shadows.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
 </footer>
 
