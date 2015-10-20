@@ -8,7 +8,7 @@ A combinação de Html5 e CSS 3, promove ao desenvolvedor uma integração nativ
 
 <h2>CSS3 Transforms </h2>
 
-Esta propriedade tem a funcionalidade aplicar alguns efeitos visuais nos elementos da tela. Efeitos com girar, transformar, redimencionar, e inclinar deixam os elementos mais interativos. Podem ser aplicados de diversas formas, como: jogos, interações com usuários, tranformações de textos.
+Esta propriedade tem a funcionalidade de aplicar efeitos visuais nos elementos da tela. Efeitos com girar, transformar, redimencionar, e inclinar deixam os elementos mais interativos. Podem ser aplicados de diversas formas, como: jogos, interações com usuários, tranformações de objetos em softwares especialistas.
 
 <h3> Como usar? </h3>
 
@@ -19,15 +19,36 @@ div {
     transform: rotate(7deg);
 } 
 ```
-<a href="http://jarbascoltro.weebly.com/css3.html.html" target="_blank" title="Transforms Implementados neste link.">Transformes implementados em  site particular </a>
+<a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="Transforms Implementados neste link.">Transformes implementados em  site particular </a>
 
 <footer>
 Fonte : http://www.w3schools.com/cssref/css3_pr_transform.asp consulta: <dateTime> 14/10/2015 22:00 </dateTime> <br/>
 </footer>
 
+
+<h2> CSS3 Media Queries </h2>
+
+A função Media Queries permite consultar atributos das mídias e alterar seu codigo para melhor adaptação. Pode ser utilizado para melhorar a usubilidade do sistema sobre o hardware.
+
+<h3> Como usar? </h3>
+
+```html
+@media screen and (min-width: 480px) {
+    #leftsidebar {width: 200px; float: left;}
+    #main {margin-left:216px;}
+}
+```
+
+<a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="Media Queries Implementados neste link.">Media Queries Implementados neste link</a>
+
+<footer>
+Fonte:http://www.w3schools.com/css/css3_mediaqueries.asp consulta: <dateTime> 17/10/2015 20:00 </dateTime> <br/>
+</footer>
+
+
 <h2>CSS3 Transition </h2>
 
-A função transition permite que você altere os valores de propriedade de um elemento causando um efeitos visuais durante um determinado período, pode ser nos eventos do mouse ou eventos da tela. Pode ser usado para altefar um elemento e chamar a atenção do usuario, deixando a tela mais interativa. No desenvolvimento de Jogos tambem pode ser utilizadol.
+A função transition permite que você altere os valores de propriedade de um elemento causando um efeitos visuais durante um determinado período, pode ser nos eventos do mouse ou eventos da tela. São utilizados para altefar um elemento e chamar a atenção do usuario, deixando a tela mais interativa. No desenvolvimento de Jogos tambem pode ser utilizado.
 
 <h3> Como usar? </h3>
 
@@ -49,6 +70,7 @@ div:hover {
 <footer>
 Fonte :http://www.w3schools.com/css/css3_transitions.asp consulta: <dateTime> 15/10/2015 18:00 </dateTime> <br/>
 </footer>
+
 
 <h2>CSS3 Animations </h2>
 
@@ -73,25 +95,6 @@ div:hover {
 
 <footer>
 Fonte:http://www.w3schools.com/css/css3_animations.asp consulta: <dateTime> 17/10/2015 27:00 </dateTime> <br/>
-</footer>
-
-<h2> CSS3 Media Queries </h2>
-
-A função Media Queries permite consultar atributos das mídias e alterar seu codigo para melhor adaptação. Pode ser utilizado para melhorar a usubilidade do sistema sobre o hardware.
-
-<h3> Como usar? </h3>
-
-```html
-@media screen and (min-width: 480px) {
-    #leftsidebar {width: 200px; float: left;}
-    #main {margin-left:216px;}
-}
-```
-
-<a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="Media Queries Implementados neste link.">Media Queries Implementados neste link</a>
-
-<footer>
-Fonte:http://www.w3schools.com/css/css3_mediaqueries.asp consulta: <dateTime> 17/10/2015 20:00 </dateTime> <br/>
 </footer>
 
 <h2> CSS3 Box flexível </h2>
@@ -163,13 +166,11 @@ A função gradiente permite exibir a transição de cores no elemento. Antigame
 }
 
 ```
-
 <a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="Gradientes Implementados neste link.">Gradientes Implementados neste link </a>
 
 <footer>
 Fonte:http://www.w3schools.com/css/css3_gradients.asp consulta: <dateTime> 18/10/2015 13:00 </dateTime> <br/>
 </footer>
-
 
 <h2>CSS3 Multi-colunas </h2>
 
