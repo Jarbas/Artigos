@@ -13,15 +13,6 @@ Fonte: http://www.w3c.br/pub/Cursos/CursoCSS3/css-web.pdf-css-.htm consulta: <da
 Fonte: http://www.w3schools.com/css/css3_intro.asp consulta: <dateTime> 15/10/2015 22:00 </dateTime><br/>
 </footer>
 
-```
-Nome da funcionalidade;
-O que é ou o que faz a funcionalidade;
-Onde usar essa funcionalidade, em que contexto deve usar ela;
-Como usar essa funcionalidade, ou seja, sua sintaxe de utilização;
-Apresentar um exemplo de uso dessa funcionalidade.
-Referência de onde extraiu o conteúdo apresentado.
-```
-
 <h2>CSS3 Transforms </h2>
 
 Esta propriedade tem a funcionalidade aplicar alguns efeitos visuais nos elementos da tela. Efeitos com girar, transformar, redimencionar, e inclinar deixam os elementos mais interativos. Podem ser aplicados de diversas formas, como: jogos, interações com usuários, tranformações de textos.
@@ -91,6 +82,25 @@ div:hover {
 
 <footer>
 Fonte:http://www.w3schools.com/css/css3_animations.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
+</footer>
+
+<h2> CSS3 Media Queries </h2>
+
+A função Media Queries permite consultar atributos das mídias e alterar seu codigo para melhor adaptação. Pode ser utilizado para melhorar a usubilidade do sistema sobre o hardware.
+
+<h3> Como usar? </h3>
+
+```html
+@media screen and (min-width: 480px) {
+    #leftsidebar {width: 200px; float: left;}
+    #main {margin-left:216px;}
+}
+```
+
+<a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="Media Queries Implementados neste link.">Media Queries Implementados neste link</a>
+
+<footer>
+Fonte:http://www.w3schools.com/css/css3_mediaqueries.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
 </footer>
 
 <h2> CSS3 Box flexível </h2>
@@ -212,7 +222,7 @@ div {
 Fonte:http://www.w3schools.com/css/css3_borders.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
 </footer>
 
-<h2> CSS3 Media Queries </h2>
+<h2> CSS3 Shadow Effects </h2>
 
 A função Media Queries permite consultar atributos das mídias e alterar seu codigo para melhor adaptação. Pode ser utilizado para melhorar a usubilidade do sistema sobre o hardware.
 
