@@ -1,10 +1,12 @@
-<h3> Unoesc Chapecó </h3> 
-<h3>   Pós-graduação em Desenvolvimento Web, Cloud e dispositivos móveis - WebMob </h3> 
-<h3>  Disciplina: HTML5+CSS3 </h3> 
-<h3>  Professor: Jean Carlo Nascimento </h3>  
-<h3> Acadêmico(a): Jarbas Coltro</h3> 
-<h3> Artigo de revisão de CSS3</h3> 
-<h3>  Introdução </h3> 
+<h4> Unoesc Chapecó </h4> 
+<h4>   Pós-graduação em Desenvolvimento Web, Cloud e dispositivos móveis - WebMob </h4> 
+<h4>  Disciplina: HTML5+CSS3 </h4> 
+<h4>  Professor: Jean Carlo Nascimento </h4>  
+<h4> Acadêmico(a): Jarbas Coltro</h4> 
+
+<h2> Artigo de revisão de CSS3</h2> 
+
+<h1>  Introdução </h1> 
 
 <article>
 O CSS ou Cascading Style Sheets é um poderoso recurso de designer web que formata a informação entregue pelo Html. Através do Css é possível definir estilos e variações, deixando do visual mais elegantes e atrativo para o usuário. 
@@ -14,7 +16,12 @@ A combinação de Html5 e CSS 3, promove ao desenvolvedor uma integração nativ
 
 <h2>CSS3 Transforms </h2>
 
-Esta propriedade tem a funcionalidade de aplicar efeitos visuais nos elementos da tela. Efeitos com girar, transformar, redimencionar, e inclinar deixam os elementos mais interativos. Podem ser aplicados de diversas formas, como: jogos, interações com usuários, tranformações de objetos em softwares especialistas.
+Esta propriedade tem a funcionalidade de aplicar efeitos visuais nos elementos da tela. Efeitos com girar, transformar, redimencionar, e inclinar deixam os elementos mais interativos. 
+
+<h3> Onde usar? </h3>
+
+
+Podem ser aplicados de diversas formas, como: jogos, interações com usuários, tranformações de objetos em softwares especialistas.
 
 <h3> Como usar? </h3>
 
@@ -34,7 +41,11 @@ Fonte : http://www.w3schools.com/cssref/css3_pr_transform.asp consulta: <dateTim
 
 <h2> CSS3 Media Queries </h2>
 
-A função Media Queries permite consultar atributos das mídias e alterar seu codigo para melhor adaptação. Pode ser utilizado para melhorar a usubilidade do sistema sobre o hardware.
+A função Media Queries permite consultar atributos das mídias e alterar seu codigo para melhor adaptação. 
+
+<h3> Onde usar? </h3>
+
+Pode ser utilizado para melhorar a usubilidade do sistema sobre o hardware.
 
 <h3> Como usar? </h3>
 
@@ -54,7 +65,14 @@ Fonte:http://www.w3schools.com/css/css3_mediaqueries.asp consulta: <dateTime> 17
 
 <h2>CSS3 Transition </h2>
 
-A função transition permite que você altere os valores de propriedade de um elemento causando um efeitos visuais durante um determinado período, pode ser nos eventos do mouse ou eventos da tela. São utilizados para altefar um elemento e chamar a atenção do usuario, deixando a tela mais interativa. No desenvolvimento de Jogos tambem pode ser utilizado.
+A função transition permite que você altere os valores de propriedade de um elemento causando um efeitos visuais durante um determinado período, pode ser nos eventos do mouse ou eventos da tela. 
+
+<h3> Onde usar? </h3>
+
+São utilizados para altefar um elemento e chamar a atenção do usuario, deixando a tela mais interativa. 
+
+
+No desenvolvimento de Jogos tambem pode ser utilizado.
 
 <h3> Como usar? </h3>
 
@@ -80,7 +98,11 @@ Fonte :http://www.w3schools.com/css/css3_transitions.asp consulta: <dateTime> 15
 
 <h2>CSS3 Animations </h2>
 
-A função Animation permite que um elemento mude de um estilo de forma interativa e animada sem a utilização de javascript e flash. Voce pode usar no contexto de criação de jogos e animações para sites.
+A função Animation permite que um elemento mude de um estilo de forma interativa e animada sem a utilização de javascript e flash. 
+
+<h3> Onde usar? </h3>
+
+Voce pode usar no contexto de criação de jogos e animações para sites.
 
 <h3> Como usar? </h3>
 
@@ -105,7 +127,11 @@ Fonte:http://www.w3schools.com/css/css3_animations.asp consulta: <dateTime> 17/1
 
 <h2> CSS3 Box flexível </h2>
 
-Os box flexíveis  é um recurso que permite acomodar os elementos de forma previsível, deixando confiavel o layout da pagina sobre os diferentes tamanhos de tela e diferentes dispositivos de exibição. É utilizado para alinhar um elemnto de forma dinamica, organizando o layout horizontamente, vericalmente e outras propriedades.
+Os box flexíveis  é um recurso que permite acomodar os elementos de forma previsível, deixando confiavel o layout da pagina sobre os diferentes tamanhos de tela e diferentes dispositivos de exibição.
+
+<h3> Onde usar? </h3>
+
+É utilizado para alinhar um elemnto de forma dinamica, organizando o layout horizontamente, vericalmente e outras propriedades.
 
 <h3> Como usar? </h3>
 
@@ -139,7 +165,11 @@ Fonte:http://www.w3schools.com/css/css3_flexbox.asp consulta: <dateTime> 17/10/2
 <h2>CSS3 Multiplos Background </h2>
 
 CSS3 permite adicionar múltiplas imagens de fundo para um elemento, através do background-image propriedade.
-As diferentes imagens de fundo são separados por vírgulas, e as imagens são empilhados em cima uns dos outros, em que a primeira imagem é mais próximo do espectador. Pode ser usado para aterar o backgroud de site de forma dinâmina e intinerante.
+As diferentes imagens de fundo são separados por vírgulas, e as imagens são empilhados em cima uns dos outros, em que a primeira imagem é mais próximo do espectador.
+
+<h3> Onde usar? </h3>
+
+Pode ser usado para aterar o backgroud de site de forma dinâmina e intinerante.
 
 <h3> Como usar? </h3>
 
@@ -159,7 +189,11 @@ Fonte:http://www.w3schools.com/css/css3_backgrounds.asp consulta: <dateTime> 17/
 
 <h2>CSS3 Gradients </h2>
 
-A função gradiente permite exibir a transição de cores no elemento. Antigamente era necessário utilizar uma imagem para simular este exemplo. A utilização dese recurso torna efeitos visuais mais interessantes.
+A função gradiente permite exibir a transição de cores no elemento. Antigamente era necessário utilizar uma imagem para simular este exemplo.
+
+<h3> Onde usar? </h3>
+
+A utilização dese recurso torna efeitos visuais mais interessantes.
 
 <h3> Como usar? </h3>
 
@@ -180,7 +214,11 @@ Fonte:http://www.w3schools.com/css/css3_gradients.asp consulta: <dateTime> 18/10
 
 <h2>CSS3 Multi-colunas </h2>
 
-A função multi colunas pemite você tabular o texto em várias colunas com  muita facilidade. É utilizada para melhorar a visualização de texto no formato de jornal e faciliar a leitura.
+A função multi colunas pemite você tabular o texto em várias colunas com  muita facilidade. 
+
+<h3> Onde usar? </h3>
+
+É utilizada para melhorar a visualização de texto no formato de jornal e faciliar a leitura.
 
 <h3> Como usar? </h3>
 
@@ -201,7 +239,11 @@ Fonte:http://www.w3schools.com/css/css3_multiple_columns.asp consulta: <dateTime
 
 <h2> CSS3 border-radius </h2>
 
-A função border radius permite altear o estilo da imagem, arendodando as bordas de forma dinamica. Esta funcionalidade permite transformar elementos quadrados em redondos em poucas linas de códigos. Pode ser utilizado no desenvolvimento de jogos e interações com o usuário.
+A função border radius permite altear o estilo da imagem, arendodando as bordas de forma dinamica. Esta funcionalidade permite transformar elementos quadrados em redondos em poucas linas de códigos. 
+
+<h3> Onde usar? </h3>
+
+Pode ser utilizado no desenvolvimento de jogos e interações com o usuário.
 
 <h3> Como usar? </h3>
 
@@ -221,7 +263,11 @@ Fonte:http://www.w3schools.com/css/css3_borders.asp consulta: <dateTime> 19/10/2
 
 <h2> CSS3 Shadow Effects </h2>
 
-A função permite colocar sombras nos textos. Pode ser usado para agregar efeitos de designer.
+A função permite colocar sombras nos textos. 
+
+<h3> Onde usar? </h3>
+
+Pode ser usado para agregar efeitos de designer.
 
 <h3> Como usar? </h3>
 
