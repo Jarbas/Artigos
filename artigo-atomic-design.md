@@ -71,17 +71,17 @@ Exemplo de uma molécula - estrutura de um comentário.
 		<img src="../../images/fpo_avatar.png" alt="Avatar" />		<h4 class="comment-name"><a href="#">Lacy Way</a></h4>
 	</div>
 	<div class="comment-text">
-		<p>So, Comentario do artigo sobre Atomic Design .</p>
+		<p>Comentário do artigo sobre Atomic Design .</p>
 	</div>
 </li>
 ```
 
 <li class="comment-container">
 	<div class="comment-meta">
-		<img src="../../images/fpo_avatar.png" alt="Avatar" />		<h4 class="comment-name"><a href="#">Lacy Way</a></h4>
+		<img src="https://d60f479a-a-62cb3a1a-s-sites.googlegroups.com/site/jarbascltr/img_ref/Atual2.jpg?attachauth=ANoY7cqDRSDiI8emsav2nbzGOOM0rL1ZVojuweF9OOy8qdDAOKcZPO7rQ4764x4lgGf3vHJfBkLURCV43dTZ2T60tn69amcs1dlcHtpulpfV9FT-VF-6n6SLbpg99AjqN0_DKSXcDuNk84WTTMozL3jOEUHn-7IhmoDiPmRjPpJLaS3E3Up-lR5jymQ7J-sFVBxF_gbmYNWhhUBtgGizncvMx5M3kvWwSg%3D%3D&attredirects=0" alt="Avatar" />		<h4 class="comment-name"><a href="#">Jarbas Coltro</a></h4>
 	</div>
 	<div class="comment-text">
-		<p>So, setting about it as methodically as men might smoke out a wasps' nest, the Martians spread this strange stifling vapour over the Londonward country. The horns of the crescent slowly moved apart, until at last they formed a line from Hanwell to Coombe and Malden. All night through their destructive tubes advanced.</p>
+		<p>Comentário do artigo sobre Atomic Design</p>
 	</div>
 </li>
 
