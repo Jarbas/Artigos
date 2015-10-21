@@ -18,9 +18,9 @@ O atomic design é método para criação de sistemas de designer inteligente, s
 
 <h3>Como funciona? </h3>
 
-Átomos    = tag Html (button,Label, Input, outros);
-Moléculas = São conjuntos de Átomos;
-Organismos = Conjuntgo de Moléculas;
+Átomos    = tag Html (button,Label, Input, outros); <br/>
+Moléculas = São conjuntos de Átomos;   <br/>
+Organismos = Conjuntgo de Moléculas;  <br/>
 
 <h2>Para que usar </h2>
 
