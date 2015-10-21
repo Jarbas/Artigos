@@ -4,15 +4,17 @@
 <h5>  Professor: Jean Carlo Nascimento </h5>  
 <h5> Acadêmico(a): Jarbas Coltro</h5> 
 
+<article>
+
 <h2> Artigo de revisão de CSS3</h2> 
 
 <h1>  Introdução </h1> 
 
-<article>
+
 O CSS ou Cascading Style Sheets é um poderoso recurso de designer web que formata a informação entregue pelo Html. Através do Css é possível definir estilos e variações, deixando do visual mais elegantes e atrativo para o usuário. 
 O Css surgiu quando a programação web estava criando seus pilares, inicialmente para atender a necessidade de criar um padrão e renderizar as páginas e posteriormente para agilizar este processo. O Css foi um marco para a programão web, já que permitiu um compartilhamento de formato e reduziu a repetição de código no na estrutura da página. Muitas funcionalidade foram implementadas e melhoradas, as animações e transições ganharam várias funcionalidade e deixaram experiência do usuário em outro patamar. Os seletores são a alma do CSS3, utilizando de forma eficaz é possível tornar o código escalável e inteligente. A possibilidade de atribuirmos múltiplos backgrounds em apenas um elemento é a feature que vai ajudá-lo a não sujar seu código.
 A combinação de Html5 e CSS 3, promove ao desenvolvedor uma integração nativa capaz de construir efeitos de rotação, movimento e transição, animações tanto em 2D quanto em 3D, possibilitando a construção de softwares cada vez mais interativos e complexos.
-</article>
+
 
 <h2>CSS3 Transforms </h2>
 
@@ -279,3 +281,4 @@ h1 {
 Fonte:http://www.w3schools.com/css/css3_shadows.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
 </footer>
 
+</article>
