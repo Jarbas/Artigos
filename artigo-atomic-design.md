@@ -31,22 +31,31 @@ Paginas = As páginas são instâncias específicas de modelos. O mais alto nív
 
 <h2>Para que usar </h2>
 
-Esta propriedade tem a funcionalidade de aplicar efeitos visuais 2d e 3d nos objetos da tela. Efeitos com girar, transformar, redimensionar, inclinar e outros.
+Esta metodologia está construindo seus pilares na programação web, já é possível através do patternlab.io deslumbrar das facilidades que isso promoverá no contexto de designer. Este metodo atravessa o abstratismo ao concreto muito rapidamente.
 
 <h2>Onde usar?</h2>
 
-Esta propriedade tem a funcionalidade de aplicar efeitos visuais 2d e 3d nos objetos da tela. Efeitos com girar, transformar, redimensionar, inclinar e outros.
+A Atomic Design pode ser usado para a construção de sitemas web.
 
 <h3>Exemplo de cada etapa </h3>
 
 ```html
-div {
-    -ms-transform: rotate(7deg); /* IE 9 */
-    -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
-    transform: rotate(7deg);
-} 
+<h1>Heading Level 1</h1>
+<h2>Heading Level 2</h2>
+<h3>Heading Level 3</h3>  
+<h4>Heading Level 4</h4>
+<h5>Heading Level 5</h5> 
+<h6>Heading Level 6</h6>
 ```
-<a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="Transforms Implementados neste link.">Transformes implementados em  site particular </a>
+
+<h1>Heading Level 1</h1>
+<h2>Heading Level 2</h2>
+<h3>Heading Level 3</h3>  
+<h4>Heading Level 4</h4>
+<h5>Heading Level 5</h5> 
+<h6>Heading Level 6</h6>
+
+<a href="http://demo.patternlab.io/?p=atoms-headings" target="_blank" title="Atomos.">Atomos</a>
 
 <footer>
 Fonte:http://www.w3schools.com/css/css3_shadows.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
