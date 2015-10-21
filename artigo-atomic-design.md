@@ -1,16 +1,42 @@
-<h1> Introdução </h1>
+<h5> Unoesc Chapecó </h5> 
+<h5>   Pós-graduação em Desenvolvimento Web, Cloud e dispositivos móveis - WebMob </h5> 
+<h5>  Disciplina: HTML5+CSS3 </h5> 
+<h5>  Professor: Jean Carlo Nascimento </h5>  
+<h5> Acadêmico(a): Jarbas Coltro</h5> 
 
 <article>
-O CSS ou Cascading Style Sheets é um poderoso recurso de designer web que formata a informação entregue pelo Html. Através do Css é possível definir estilos e variações, deixando do visual mais elegantes e atrativo para o usuário. 
-O Css surgiu quando a programação web estava criando seus pilares, inicialmente para atender a necessidade de criar um padrão e renderizar as páginas e posteriormente para agilizar este processo. O Css foi um marco para a programão web, já que permitiu um compartilhamento de formato e reduziu a repetição de código no na estrutura da página. Muitas funcionalidade foram implementadas e melhoradas, as animações e transições ganharam várias funcionalidade e deixaram experiência do usuário em outro patamar. Os seletores são a alma do CSS3, utilizando de forma eficaz é possível tornar o código escalável e inteligente. A possibilidade de atribuirmos múltiplos backgrounds em apenas um elemento é a feature que vai ajudá-lo a não sujar seu código.
-A combinação de Html5 e CSS 3, promove ao desenvolvedor uma integração nativa capaz de construir efeitos de rotação, movimento e transição, animações tanto em 2D quanto em 3D, possibilitando a construção de softwares cada vez mais interativos e complexos.
-</article>
 
-<h2>CSS3 Transforms </h2>
+<h2> Artigo de revisão de CSS3</h2> 
 
-Esta propriedade tem a funcionalidade de aplicar efeitos visuais nos elementos da tela. Efeitos com girar, transformar, redimencionar, e inclinar deixam os elementos mais interativos. Podem ser aplicados de diversas formas, como: jogos, interações com usuários, tranformações de objetos em softwares especialistas.
+<h1>  Resumo </h1> 
 
-<h3> Como usar? </h3>
+O atomic design é uma analogia para exemplificar uma nova metodologia de desenvolvimento de designer inteligente. 
+
+Resumo (5%)
+O que é? (15%)
+Como funciona? (10%)
+Para que usar (10%)
+Onde usar? (10%)
+Exemplo de cada etapa. (10%. Como são 5 etapas, 5*10%=50%)
+
+<h2>O que é? </h2>
+
+Esta propriedade tem a funcionalidade de aplicar efeitos visuais 2d e 3d nos elementos da tela. Efeitos com girar, transformar, redimensionar, inclinar e outros.
+
+<h3>Como funciona? </h3>
+
+Podem ser aplicados de diversos componentes como: div, img, fig alterando tua propriedade transform com a animação desejada.
+A alteração das suas propertys via javascritp é simples, o codigo object.style.transform="rotate(7deg)" ' a e pode ser aplicado de diversas formas, como: jogos, interações com usuários, transformações de objetos em softwares especialistas.
+
+<h2>Para que usar </h2>
+
+Esta propriedade tem a funcionalidade de aplicar efeitos visuais 2d e 3d nos elementos da tela. Efeitos com girar, transformar, redimensionar, inclinar e outros.
+
+<h2>Onde usar?</h2>
+
+Esta propriedade tem a funcionalidade de aplicar efeitos visuais 2d e 3d nos elementos da tela. Efeitos com girar, transformar, redimensionar, inclinar e outros.
+
+<h3>Exemplo de cada etapa </h3>
 
 ```html
 div {
@@ -22,6 +48,7 @@ div {
 <a href="http://jarbascoltro.weebly.com/css3.html" target="_blank" title="Transforms Implementados neste link.">Transformes implementados em  site particular </a>
 
 <footer>
-Fonte : http://www.w3schools.com/cssref/css3_pr_transform.asp consulta: <dateTime> 14/10/2015 22:00 </dateTime> <br/>
+Fonte:http://www.w3schools.com/css/css3_shadows.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
 </footer>
 
+</article>
