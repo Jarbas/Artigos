@@ -41,19 +41,29 @@ A Atomic Design pode ser usado para a construção de sitemas web.
 
 <h2>Átomos</h2>
 
+Exemplo de Heading em todos os níveis.
+
 ```html
-<div class="demo-animate animate-fade"><strong>Fade:</strong> Duration: 0.3s Easing: ease-out (Hover to see effect)</div>
-
-<div class="demo-animate animate-move"><div class="demo-shape"></div><strong>Movement:</strong> Duration: 0.8s  Easing: ease-in-out; (Hover to see effect)</div>
+<h1>Heading Level 1</h1>
+<h2>Heading Level 2</h2>
+<h3>Heading Level 3</h3>  
+<h4>Heading Level 4</h4>
+<h5>Heading Level 5</h5> 
+<h6>Heading Level 6</h6>
 ```
-<div class="demo-animate animate-fade"><strong>Fade:</strong> Duration: 0.3s Easing: ease-out (Hover to see effect)</div>
-
-<div class="demo-animate animate-move"><div class="demo-shape"></div><strong>Movement:</strong> Duration: 0.8s  Easing: ease-in-out; (Hover to see effect)</div>
+<h1>Heading Level 1</h1>
+<h2>Heading Level 2</h2>
+<h3>Heading Level 3</h3>  
+<h4>Heading Level 4</h4>
+<h5>Heading Level 5</h5> 
+<h6>Heading Level 6</h6>
 
 <a href="http://demo.patternlab.io/?p=atoms-headings" target="_blank" title="Atomos.">Atomos</a>
 
 
 <h2>Moléculas</h2>
+
+Exemplo de uma molecula 
 
 ```html
 <li class="comment-container">
@@ -61,7 +71,7 @@ A Atomic Design pode ser usado para a construção de sitemas web.
 		<img src="../../images/fpo_avatar.png" alt="Avatar" />		<h4 class="comment-name"><a href="#">Lacy Way</a></h4>
 	</div>
 	<div class="comment-text">
-		<p>So, setting about it as methodically as men might smoke out a wasps' nest, the Martians spread this strange stifling vapour over the Londonward country. The horns of the crescent slowly moved apart, until at last they formed a line from Hanwell to Coombe and Malden. All night through their destructive tubes advanced.</p>
+		<p>So, Comentario do artigo sobre Atomic Design .</p>
 	</div>
 </li>
 ```
