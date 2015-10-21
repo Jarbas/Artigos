@@ -181,3 +181,10 @@ Segue link um exemplo de Pages - Atomic Design.
 
 
 </article>
+
+<h1>  Referências </h1> 
+
+<a href="http://bradfrost.com/blog/post/atomic-web-design/" target="_blank" title="Pages">bradfrost.com/blog/post/atomic-web-design/ </a> <br/>
+<a href="http://malarkey.github.io/Rock-Hammer/" target="_blank" title="Pages">http://malarkey.github.io/Rock-Hammer/ </a> <br/>
+<a href="https://stuffandnonsense.co.uk/blog/about/rock-hammer-a-curated-responsive-project-library" target="_blank" title="Pages">stuffandnonsense.co.uk/blog/about/rock-hammer-a-curated-responsive-project-library </a> <br/>
+
