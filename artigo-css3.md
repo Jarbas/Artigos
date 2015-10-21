@@ -16,12 +16,12 @@ A combinação de Html5 e CSS 3, promove ao desenvolvedor uma integração nativ
 
 <h2>CSS3 Transforms </h2>
 
-Esta propriedade tem a funcionalidade de aplicar efeitos visuais nos elementos da tela. Efeitos com girar, transformar, redimencionar, e inclinar deixam os elementos mais interativos. 
+Esta propriedade tem a funcionalidade de aplicar efeitos visuais 2d e 3d nos elementos da tela. Efeitos com girar, transformar, redimencionar, inclinar e outros.
 
 <h3> Onde usar? </h3>
 
-
-Podem ser aplicados de diversas formas, como: jogos, interações com usuários, tranformações de objetos em softwares especialistas.
+Podem ser aplicados de diversos componentes como: div, img, fig alterando tua propriedade transform com a animação desejada.
+A alteração das suas propertys via javascritp é simples, o codigo object.style.transform="rotate(7deg)" ' a e pode ser aplicado de diversas formas, como: jogos, interações com usuários, tranformações de objetos em softwares especialistas.
 
 <h3> Como usar? </h3>
 
@@ -38,14 +38,13 @@ div {
 Fonte : http://www.w3schools.com/cssref/css3_pr_transform.asp consulta: <dateTime> 14/10/2015 22:00 </dateTime> <br/>
 </footer>
 
-
 <h2> CSS3 Media Queries </h2>
 
 A função Media Queries permite consultar atributos das mídias e alterar seu codigo para melhor adaptação. 
 
 <h3> Onde usar? </h3>
 
-Pode ser utilizado para melhorar a usubilidade do sistema sobre o hardware.
+Usados em computadores, tablets, smart-phones etc.Sua função é melhorar a usubilidade do sistema sobre o hardware.
 
 <h3> Como usar? </h3>
 
@@ -69,10 +68,7 @@ A função transition permite que você altere os valores de propriedade de um e
 
 <h3> Onde usar? </h3>
 
-São utilizados para altefar um elemento e chamar a atenção do usuario, deixando a tela mais interativa. 
-
-
-No desenvolvimento de Jogos tambem pode ser utilizado.
+Para criar um efeito de transição, você deve especificar duas coisas, a primeira é a propriedade CSS que você deseja adicionar um efeito, e a segunda é duração do efeito .
 
 <h3> Como usar? </h3>
 
@@ -95,14 +91,14 @@ div:hover {
 Fonte :http://www.w3schools.com/css/css3_transitions.asp consulta: <dateTime> 15/10/2015 18:00 </dateTime> <br/>
 </footer>
 
-
 <h2>CSS3 Animations </h2>
 
 A função Animation permite que um elemento mude de um estilo de forma interativa e animada sem a utilização de javascript e flash. 
 
 <h3> Onde usar? </h3>
 
-Voce pode usar no contexto de criação de jogos e animações para sites.
+Podem ser aplicados de diversos componentes como: div, img, fig alterando tua propriedade animation-name: exemplo e informando a duração da animação, animation-duration: 4s;
+Utilizando os @keyframes Rule a animação irá mudar gradualmente a partir do estilo atual para o novo estilo em determinados momentos. Voce pode usar no contexto de criação de jogos e animações para sites.
 
 <h3> Como usar? </h3>
 
@@ -131,7 +127,7 @@ Os box flexíveis  é um recurso que permite acomodar os elementos de forma prev
 
 <h3> Onde usar? </h3>
 
-É utilizado para alinhar um elemnto de forma dinamica, organizando o layout horizontamente, vericalmente e outras propriedades.
+Geralmente aplicados no elemento div.  É utilizado para alinha-lo de forma dinamica, organizando o layout horizontamente, vericalmente.
 
 <h3> Como usar? </h3>
 
