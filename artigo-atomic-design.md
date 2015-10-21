@@ -42,22 +42,16 @@ A Atomic Design pode ser usado para a construção de sitemas web.
 <h2>Átomos</h2>
 
 ```html
-<p><a href="#" class="btn">Button</a></p>
-<p><a href="#" class="btn alt">Alternate Button</a></p>
-<p><a href="#" class="btn disabled">Disabled Button</a></p>
-<p><a href="#" class="text-btn">Text Button</a></p>
-```
+<div class="demo-animate animate-fade"><strong>Fade:</strong> Duration: 0.3s Easing: ease-out (Hover to see effect)</div>
 
-<p><a href="#" class="btn"   border-width: medium border-style: solid border-color: #00f >Button</a></p>
-<p><a href="#" class="btn alt">Alternate Button</a></p>
-<p><a href="#" class="btn disabled">Disabled Button</a></p>
-<p><a href="#" class="text-btn">Text Button</a></p>
+<div class="demo-animate animate-move"><div class="demo-shape"></div><strong>Movement:</strong> Duration: 0.8s  Easing: ease-in-out; (Hover to see effect)</div>
+```
+<div class="demo-animate animate-fade"><strong>Fade:</strong> Duration: 0.3s Easing: ease-out (Hover to see effect)</div>
+
+<div class="demo-animate animate-move"><div class="demo-shape"></div><strong>Movement:</strong> Duration: 0.8s  Easing: ease-in-out; (Hover to see effect)</div>
 
 <a href="http://demo.patternlab.io/?p=atoms-headings" target="_blank" title="Atomos.">Atomos</a>
 
-<footer>
-Fonte:http://www.w3schools.com/css/css3_shadows.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
-</footer>
 
 <h2>Moléculas</h2>
 
