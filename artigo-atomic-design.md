@@ -41,7 +41,7 @@ A Atomic Design pode ser usado para a construção de sitemas web.
 
 <h2>Átomos</h2>
 
-Exemplo de Heading em todos os níveis.
+Exemplo Átomo de Heading em todos os níveis.
 
 ```html
 <h1>Heading Level 1</h1>
@@ -85,7 +85,7 @@ Exemplo de uma molécula - estrutura de um comentário.
 	</div>
 </li>
 
-<a href="http://demo.patternlab.io/?p=molecules-single-comment" target="_blank" title="Moleculas - .">>Moléculas em demo.patternlab.io </a>
+<a href="http://demo.patternlab.io/?p=molecules-single-comment" target="_blank" title="Moleculas - .">Moléculas em demo.patternlab.io </a>
 
 <h2>Organismo</h2>
 
@@ -164,8 +164,20 @@ Exemplo de uma Organismo - estrutura de um comentário.
 ```
 
 
+<a href="http://demo.patternlab.io/?p=organisms-comment-thread" target="_blank" title="Organismo">Organismo em demo.patternlab.io </a>
 
-<a href="http://demo.patternlab.io/?p=organisms-comment-thread" target="_blank" title="Moleculas - .">>Organismo em demo.patternlab.io </a>
+<h2>Modelos ou templates</h2>
+
+Segue link um exemplo de Templates - Atomic Design. 
+
+<a href="http://demo.patternlab.io/?p=pages-homepage-emergency" target="_blank" title="Templates">Templates em demo.patternlab.io </a>
+
+
+<h2>Pages</h2>
+
+Segue link um exemplo de Pages - Atomic Design.
+
+<a href="http://demo.patternlab.io/?p=pages-homepage" target="_blank" title="Pages">Pages em demo.patternlab.io </a>
 
 
 </article>
