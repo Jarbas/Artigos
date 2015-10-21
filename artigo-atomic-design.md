@@ -10,7 +10,7 @@
 
 <h1>  Resumo </h1> 
 
-O atomic design é método para criação de sistemas de designer inteligente, surgiu de uma analogia do mundo relacionado com o desenvolvimento de designers web. Esta analogia descreve desde o átomo até o organismo mais complexo, ou seja, desde os elementos ou tag's até as páginas por completo.
+O atomic design é método para criação de sistemas de designer inteligente, surgiu de uma analogia do mundo relacionado com o desenvolvimento de designers web. Esta analogia descreve desde o átomo até o organismo mais complexo, ou seja, desde os objetos ou tag's até as páginas por completo.
 
 <h2>O que é? </h2>
 
@@ -18,17 +18,26 @@ O atomic design é método para criação de sistemas de designer inteligente, s
 
 <h3>Como funciona? </h3>
 
-Átomos    = tag Html (button,Label, Input, outros); <br/>
-Moléculas = São conjuntos de Átomos;   <br/>
-Organismos = Conjuntgo de Moléculas;  <br/>
+Átomos    = São objetos de uma forma genérica ou abstrata como queira 
+Exemplos: tag Html (button,Label, Input, outros); <br/>
+
+Moléculas = São conjuntos de Átomos, ou seja combinações  de Objetos ou tag html que produzem um resultado combinado;   <br/>
+
+Organismos = Conjuntgo de Moléculas, podem ser definidos como blocos de construção, que aceleram o desenvolvimento;  <br/>
+
+Modelos = Conjuntgo de Moléculas, podem ser definidos como blocos de construção, que aceleram o desenvolvimento;  <br/>
+
+Paginas = Conjuntgo de Moléculas, podem ser definidos como blocos de construção, que aceleram o desenvolvimento;  <br/>
+
+
 
 <h2>Para que usar </h2>
 
-Esta propriedade tem a funcionalidade de aplicar efeitos visuais 2d e 3d nos elementos da tela. Efeitos com girar, transformar, redimensionar, inclinar e outros.
+Esta propriedade tem a funcionalidade de aplicar efeitos visuais 2d e 3d nos objetos da tela. Efeitos com girar, transformar, redimensionar, inclinar e outros.
 
 <h2>Onde usar?</h2>
 
-Esta propriedade tem a funcionalidade de aplicar efeitos visuais 2d e 3d nos elementos da tela. Efeitos com girar, transformar, redimensionar, inclinar e outros.
+Esta propriedade tem a funcionalidade de aplicar efeitos visuais 2d e 3d nos objetos da tela. Efeitos com girar, transformar, redimensionar, inclinar e outros.
 
 <h3>Exemplo de cada etapa </h3>
 
