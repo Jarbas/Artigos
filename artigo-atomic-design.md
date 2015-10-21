@@ -58,12 +58,12 @@ Exemplo de Heading em todos os níveis.
 <h5>Heading Level 5</h5> 
 <h6>Heading Level 6</h6>
 
-<a href="http://demo.patternlab.io/?p=atoms-headings" target="_blank" title="Atomos.">Atomos</a>
+<a href="http://demo.patternlab.io/?p=atoms-headings" target="_blank" title="Atomos.">Atomos em demo.patternlab.io </a>
 
 
 <h2>Moléculas</h2>
 
-Exemplo de uma molecula 
+Exemplo de uma molécula - estrutura de um comentário.
 
 ```html
 <li class="comment-container">
@@ -85,11 +85,87 @@ Exemplo de uma molecula
 	</div>
 </li>
 
-<a href="http://demo.patternlab.io/?p=atoms-headings" target="_blank" title="Atomos.">Atomos</a>
+<a href="http://demo.patternlab.io/?p=molecules-single-comment" target="_blank" title="Moleculas - .">>Moléculas em demo.patternlab.io </a>
 
-<footer>
-Fonte:http://www.w3schools.com/css/css3_shadows.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
-</footer>
+<h2>Organismo</h2>
+
+Exemplo de uma Organismo - estrutura de um comentário.
+
+```html
+<section class="comments section">
+	<div class="comments-container" id="comments-container">
+		<h2 class="section-title">59 Comments</h2>
+		<form method="post" action="#" class="comment-form">
+			<fieldset>
+				<div class="field-container">
+					<label for="comment-name">Name</label>
+					<input id="comment-name" type="text" placeholder="Enter Your Name" />
+				</div>
+				<div class="field-container">
+					<label for="comment-email">Email</label>
+					<input id="comment-email" type="email" placeholder="Your email address" />
+				</div>
+				<div class="field-container">
+					<label for="comment-url">URL</label>
+					<input id="comment-url" type="url" placeholder="Website if you got one" />
+				</div>
+				<div class="field-container">
+					<label for="comment-field">Comment</label>
+					<textarea id="comment-field" rows="5" placeholder="Write you comment here"></textarea>
+				</div>
+			</fieldset>
+		</form>		<ul class="comment-list">
+				<li class="comment-container">
+					<div class="comment-meta">
+		<img src="http://placeimg.com/100/100/people" alt="Avatar" />						<h4 class="comment-name"><a href="#">Junius Koolen</a></h4>
+					</div>
+					<div class="comment-text">
+						<p>Fizzle crazy tortor. Sed rizzle. Ass pimpin' dolor dapibizzle turpis tempizzle fo shizzle my nizzle. Maurizzle pellentesque its fo rizzle izzle turpis. Get down get down we gonna chung nizzle. Shizzlin dizzle eleifend rhoncizzle break it down. In yo ghetto platea dictumst. Bling bling dapibizzle. Curabitur break yo neck, yall fo, pretizzle eu, go to hizzle dope, own yo' vitae, nunc. Bizzle suscipizzle. Ass semper velit sizzle fo.</p>
+					</div>
+				</li>				<li class="comment-container">
+					<div class="comment-meta">
+		<img src="http://placeimg.com/100/100/tech/sepia" alt="Avatar" />						<h4 class="comment-name"><a href="#">Matthias Macguinness</a></h4>
+					</div>
+					<div class="comment-text">
+						<p>Sugar plum wafer soufflÃ© ice cream. Wafer topping biscuit pie gummi bears topping. Gummies toffee powder applicake oat cake cookie. Bear claw candy tootsie roll fruitcake danish applicake candy canes macaroon. Liquorice tiramisu danish cotton candy gummies. Tiramisu dessert gummi bears macaroon sweet roll jelly-o gummi bears marzipan.</p>
+					</div>
+				</li>				<li class="comment-container">
+					<div class="comment-meta">
+		<img src="http://placeimg.com/100/100/any/sepia" alt="Avatar" />						<h4 class="comment-name"><a href="#">Jacobus Sneiders</a></h4>
+					</div>
+					<div class="comment-text">
+						<p>I find your lack of faith disturbing. A tremor in the Force. The last time I felt it was in the presence of my old master. Don't act so surprised, Your Highness. You weren't on any mercy mission this time. Several transmissions were beamed to this ship by Rebel spies. I want to know what happened to the plans they sent you. The plans you refer to will soon be back in our hands.</p>
+					</div>
+				</li>				<li class="comment-container">
+					<div class="comment-meta">
+		<img src="http://placeimg.com/100/100/arch" alt="Avatar" />						<h4 class="comment-name"><a href="#">Fergus Althuis</a></h4>
+					</div>
+					<div class="comment-text">
+						<p>Beats all you've ever saw, been in trouble with the law since the day they was born. Straight'nin' the curve, flat'nin' the hills. Someday the mountain might get 'em, but the law never will. Makin' their way, the only way they know how, that's just a little bit more than the law will allow. Just good ol' boys, wouldn't change if they could, fightin' the system like a true modern day Robin Hood.</p>
+					</div>
+				</li>				<li class="comment-container">
+					<div class="comment-meta">
+		<img src="http://placeimg.com/100/100/people/grayscale" alt="Avatar" />						<h4 class="comment-name"><a href="#">Frans Keegan</a></h4>
+					</div>
+					<div class="comment-text">
+						<p>Like button audience atomization overcome Colbert bump Free Darko inverted pyramid we will make them pay, digital circulation strategy Like button totally blowing up on Twitter church of the savvy. Pictures of Goats section open source discuss Frontline analog thinking filters paidContent.</p>
+					</div>
+				</li>		</ul>
+	</div>
+	<ol class="pagination">
+		<li class="current"><a href="#">1</a></li>
+		<li><a href="#">2</a></li>
+		<li><a href="#">3</a></li>
+		<li><a href="#">4</a></li>
+		<li><a href="#">5</a></li>
+		<li><a href="#">6</a></li>
+		<li><a href="#">7</a></li>
+	</ol></section>
+```
+
+
+
+<a href="http://demo.patternlab.io/?p=organisms-comment-thread" target="_blank" title="Moleculas - .">>Organismo em demo.patternlab.io </a>
 
 
 </article>
