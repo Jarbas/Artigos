@@ -39,26 +39,53 @@ A Atomic Design pode ser usado para a construção de sitemas web.
 
 <h3>Exemplo de cada etapa </h3>
 
+<h2>Átomos</h2>
+
 ```html
-<h1>Heading Level 1</h1>
-<h2>Heading Level 2</h2>
-<h3>Heading Level 3</h3>  
-<h4>Heading Level 4</h4>
-<h5>Heading Level 5</h5> 
-<h6>Heading Level 6</h6>
+<p><a href="#" class="btn">Button</a></p>
+<p><a href="#" class="btn alt">Alternate Button</a></p>
+<p><a href="#" class="btn disabled">Disabled Button</a></p>
+<p><a href="#" class="text-btn">Text Button</a></p>
 ```
 
-<h1>Heading Level 1</h1>
-<h2>Heading Level 2</h2>
-<h3>Heading Level 3</h3>  
-<h4>Heading Level 4</h4>
-<h5>Heading Level 5</h5> 
-<h6>Heading Level 6</h6>
+<p><a href="#" class="btn">Button</a></p>
+<p><a href="#" class="btn alt">Alternate Button</a></p>
+<p><a href="#" class="btn disabled">Disabled Button</a></p>
+<p><a href="#" class="text-btn">Text Button</a></p>
 
 <a href="http://demo.patternlab.io/?p=atoms-headings" target="_blank" title="Atomos.">Atomos</a>
 
 <footer>
 Fonte:http://www.w3schools.com/css/css3_shadows.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
 </footer>
+
+<h2>Moléculas</h2>
+
+```html
+<li class="comment-container">
+	<div class="comment-meta">
+		<img src="../../images/fpo_avatar.png" alt="Avatar" />		<h4 class="comment-name"><a href="#">Lacy Way</a></h4>
+	</div>
+	<div class="comment-text">
+		<p>So, setting about it as methodically as men might smoke out a wasps' nest, the Martians spread this strange stifling vapour over the Londonward country. The horns of the crescent slowly moved apart, until at last they formed a line from Hanwell to Coombe and Malden. All night through their destructive tubes advanced.</p>
+	</div>
+</li>
+```
+
+<li class="comment-container">
+	<div class="comment-meta">
+		<img src="../../images/fpo_avatar.png" alt="Avatar" />		<h4 class="comment-name"><a href="#">Lacy Way</a></h4>
+	</div>
+	<div class="comment-text">
+		<p>So, setting about it as methodically as men might smoke out a wasps' nest, the Martians spread this strange stifling vapour over the Londonward country. The horns of the crescent slowly moved apart, until at last they formed a line from Hanwell to Coombe and Malden. All night through their destructive tubes advanced.</p>
+	</div>
+</li>
+
+<a href="http://demo.patternlab.io/?p=atoms-headings" target="_blank" title="Atomos.">Atomos</a>
+
+<footer>
+Fonte:http://www.w3schools.com/css/css3_shadows.asp consulta: <dateTime> 12/10/2015 20:00 </dateTime> <br/>
+</footer>
+
 
 </article>
