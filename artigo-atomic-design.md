@@ -25,11 +25,9 @@ Moléculas = São conjuntos de Átomos, ou seja combinações  de Objetos ou tag
 
 Organismos = Conjuntgo de Moléculas, podem ser definidos como blocos de construção, que aceleram o desenvolvimento;  <br/>
 
-Modelos = Conjuntgo de Moléculas, podem ser definidos como blocos de construção, que aceleram o desenvolvimento;  <br/>
+Modelos = Conjunto de Organismos, são os projetos definido para as construção das páginas, é onde se define o contexto para as moleculas e organizmos;  <br/>
 
-Paginas = Conjuntgo de Moléculas, podem ser definidos como blocos de construção, que aceleram o desenvolvimento;  <br/>
-
-
+Paginas = As páginas são instâncias específicas de modelos. O mais alto nível. ;  <br/>
 
 <h2>Para que usar </h2>
 
