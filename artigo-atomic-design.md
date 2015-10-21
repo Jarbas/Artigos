@@ -6,27 +6,21 @@
 
 <article>
 
-<h2> Artigo de revisão de CSS3</h2> 
+<h2> Artigo de revisão de Atomic Design </h2> 
 
 <h1>  Resumo </h1> 
 
-O atomic design é uma analogia para exemplificar uma nova metodologia de desenvolvimento de designer inteligente. 
-
-Resumo (5%)
-O que é? (15%)
-Como funciona? (10%)
-Para que usar (10%)
-Onde usar? (10%)
-Exemplo de cada etapa. (10%. Como são 5 etapas, 5*10%=50%)
+O atomic design é método para criação de sistemas de designer inteligente, surgiu de uma analogia do mundo relacionado com o desenvolvimento de designers web. Esta analogia descreve desde o átomo até o organismo mais complexo, ou seja, desde os elementos ou tag's até as páginas por completo.
 
 <h2>O que é? </h2>
 
-Esta propriedade tem a funcionalidade de aplicar efeitos visuais 2d e 3d nos elementos da tela. Efeitos com girar, transformar, redimensionar, inclinar e outros.
+ Projeto atômico é metodologia para a criação de sistemas de design. É uma estrutura de hierarquia de complexidade, que começa pelo mais simples e vai até o mais complexo.
 
 <h3>Como funciona? </h3>
 
-Podem ser aplicados de diversos componentes como: div, img, fig alterando tua propriedade transform com a animação desejada.
-A alteração das suas propertys via javascritp é simples, o codigo object.style.transform="rotate(7deg)" ' a e pode ser aplicado de diversas formas, como: jogos, interações com usuários, transformações de objetos em softwares especialistas.
+Átomos    = tag Html (button,Label, Input, outros);
+Moléculas = São conjuntos de Átomos;
+Organismos = Conjuntgo de Moléculas;
 
 <h2>Para que usar </h2>
 
