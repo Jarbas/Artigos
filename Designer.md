@@ -10,7 +10,7 @@
 
 <h2> Layout - Z </h2>
 
-O Layout Z se caracteriza pela pela facilidade ao juntar a forma e facilidade visual com objetividade. Baseado no diagrama de Gutenberg que descreve um padrão geral os olhos se movem através quando se olha para uniformemente distribuída informação. Projetos que seguem Gutenberg estão a ser dito em harmonia com a gravidade leitura natural. Este método descreve os itens abaixo:
+O Layout Z se caracteriza pela facilidade ao juntar a forma e facilidade visual com objetividade. Baseado no diagrama de Gutenberg que descreve um padrão geral os olhos se movem através quando se olha para uniformemente distribuída informação. Projetos que seguem Gutenberg estão a ser dito em harmonia com a gravidade leitura natural. Este método descreve os itens abaixo:
 
 <h2> Características Layout - Z </h2>
 
@@ -32,7 +32,6 @@ O Layout Z se caracteriza pela pela facilidade ao juntar a forma e facilidade vi
 
 <h2> Layout - F </h2>
 
-
 O Layout F e um metodo de construção de web site que busca a melhor disposição da informação para a leitura. Estudos mostram que os os olhos dos leitores trafegam sobre as informações do web site formando uma letra F. 
 
 
@@ -41,12 +40,13 @@ O Layout F e um metodo de construção de web site que busca a melhor disposiç�
 ```html
 * A marca-marca e navegação ocupam a atenção do visitante em primeiro lugar.
 * Dentro da estrutura do concurso, imagens receber o maior nível de atenção.
-* Manchetes vir em seguida.
-* O texto aparece a ser digitalizado, não ler cuidadosamente.
+* Manchetes aparecem em seguida.
+* O texto aparece a ser digitalizado.
 ```
 <li class="comment-container">
 	<div class="comment-meta">
-		<img src="https://sites.google.com/site/jarbascltr/img_ref/download.png" alt="Lauout - Z" />		<h4 class="comment-name"><a href="#">Jarbas Coltro</a></h4>
+		<img src="https://sites.google.com/site/jarbascltr/img_ref/download.png" alt="Lauout - F" />
+	<h4 class="comment-name"><a href="#">Jarbas Coltro</a></h4>
 	</div>
 	<div class="comment-text">
 		<p>Comentário do Lauout F</p>
@@ -57,12 +57,6 @@ O Layout F e um metodo de construção de web site que busca a melhor disposiç�
 
 O Layout Grid  e um dos componentes mais utilizados para construção de layouts de websites. É um elemento técnico-formal formado por um conjunto de linhas auxiliares na vertical e horizontal. A função principal do Grid é organizar as informações dentro de uma estrutura, deixando padronizado as informações.
 
-```html
-* A marca-marca e navegação ocupam a atenção do visitante em primeiro lugar.
-* Dentro da estrutura do concurso, imagens receber o maior nível de atenção.
-* Manchetes vir em seguida.
-* O texto aparece a ser digitalizado, não ler cuidadosamente.
-```
 <li class="comment-container">
 	<div class="comment-meta">
 		<img src="https://sites.google.com/site/jarbascltr/img_ref/wireframe-bare.png" alt="Lauout - Grid" />		<h4 class="comment-name"><a href="#">Jarbas Coltro</a></h4>
@@ -72,7 +66,7 @@ O Layout Grid  e um dos componentes mais utilizados para construção de layouts
 	</div>
 </li>
 
-<h2>  </h2>
+<h2> Regra dos terços</h2>
 
 A regra dos terços é um exercício visual onde o fotógrafo olha pelo visor ou ecrã para o cenário que quer fotografar e divide-o, mentalmente, em três terços verticais e horizontais para obter um total de nove quadrados.
 
