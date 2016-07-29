@@ -6,9 +6,11 @@
 
 <article>
 
-<h2>  Artigo de layout Z </h2>
 
-<h1> Resumo </h1> 
+<h1> Artigo sobre layout e designer responsivo  </h1> 
+
+
+<h2> Layout - Z </h2>
 
 O Layout Z se caracteriza pela pela facilidade ao juntar a forma e objetividade.Baseado no diagrama de Gutenberg que descreve um padrão geral os olhos se movem através quando se olha para uniformemente distribuída informação. Projetos que seguem Gutenberg estão a ser dito em harmonia com a gravidade leitura natural. Este método descreve os itens abaixo:
 
@@ -27,7 +29,7 @@ O Layout Z se caracteriza pela pela facilidade ao juntar a forma e objetividade.
 	</div>
 </li>
 
-<h2>  Artigo de layout F </h2>
+<h2> Layout - F </h2>
 
 <h1> Resumo </h1> 
 
