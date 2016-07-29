@@ -80,14 +80,9 @@ A regra dos terços é um exercício visual onde o fotógrafo olha pelo visor ou
 	</div>
 </li>
 
-<h2> Artigo de revisão de Atomic Design </h2> 
-
-<h1>  Resumo </h1> 
+<h2> Atomic Design </h2> 
 
 O atomic design é um método para criação de sistemas de designer inteligente. Explicado pela analogia do mundo biológico relacionado com o desenvolvimento de designers web. Esta analogia descreve desde o átomo até o organismo mais complexo, ou seja, desde os objetos ou tag's até as páginas por completo.
-
-<h2>O que é? </h2>
-
  Projeto atômico é método para a criação de sistemas de design. É uma estrutura de hierarquia de complexidade, que começa pelo mais simples e vai até o mais complexo.
 
 <h3>Como funciona? </h3>
@@ -103,19 +98,7 @@ Modelos = Conjunto de organismos, são os projetos definido para as construção
 
 Páginas = As páginas são instâncias específicas de modelos. O mais alto nível. ;  <br/>
 
-<h2>Para que usar </h2>
 
-Esta metodologia está construindo seus pilares na programação web, já é possível através do patternlab.io deslumbrar das facilidades que isso promoverá no contexto de designer. Este método atravessa o abstratismo ao concreto muito rapidamente.
-
-<h2>Onde usar?</h2>
-
-A Atomic Design pode ser usado para a construção de sitemas web.
-
-<h3>Exemplo de cada etapa </h3>
-
-<h2>Átomos</h2>
-
-Exemplo Átomo de Heading em todos os níveis.
 
 ```html
 <h1>Heading Level 1</h1>
