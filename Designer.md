@@ -12,7 +12,7 @@
 
 <h2> Layout - Z </h2>
 
-O Layout Z se caracteriza pela pela facilidade ao juntar a forma e objetividade.Baseado no diagrama de Gutenberg que descreve um padrão geral os olhos se movem através quando se olha para uniformemente distribuída informação. Projetos que seguem Gutenberg estão a ser dito em harmonia com a gravidade leitura natural. Este método descreve os itens abaixo:
+O Layout Z se caracteriza pela pela facilidade ao juntar a forma e facilidade visual com objetividade. Baseado no diagrama de Gutenberg que descreve um padrão geral os olhos se movem através quando se olha para uniformemente distribuída informação. Projetos que seguem Gutenberg estão a ser dito em harmonia com a gravidade leitura natural. Este método descreve os itens abaixo:
 
 ```html
 * Área óptica primária localizada no topo / esquerda
@@ -33,7 +33,7 @@ O Layout Z se caracteriza pela pela facilidade ao juntar a forma e objetividade.
 
 <h1> Resumo </h1> 
 
-O Layout Z se caracteriza pela pela facilidade ao juntar a forma e objetividade.Baseado no diagrama de Gutenberg que descreve um padrão geral os olhos se movem através quando se olha para uniformemente distribuída informação. Projetos que seguem Gutenberg estão a ser dito em harmonia com a gravidade leitura natural. Este método descreve os itens abaixo:
+O Layout F se caracteriza pela pela facilidade ao juntar a forma e objetividade.Baseado no diagrama de Gutenberg que descreve um padrão geral os olhos se movem através quando se olha para uniformemente distribuída informação. Projetos que seguem Gutenberg estão a ser dito em harmonia com a gravidade leitura natural. Este método descreve os itens abaixo:
 
 ```html
 * A marca-marca e navegação ocupam a atenção do visitante em primeiro lugar.
@@ -231,6 +231,6 @@ Segue link um exemplo de Pages - Atomic Design.
 
 <a href="http://bradfrost.com/blog/post/atomic-web-design/" target="_blank" title="Pages">bradfrost.com/blog/post/atomic-web-design/ </a> <br/>
 <a href="http://malarkey.github.io/Rock-Hammer/" target="_blank" title="Pages">http://malarkey.github.io/Rock-Hammer/ </a> <br/>
-<a href="http://malarkey.github.io/Rock-Hammer/" target="_blank" title="Pages"http://vanseodesign.com/web-design/3-design-layouts/ </a> <br/>
-
+<a href=""http://vanseodesign.com/web-design/3-design-layouts/" target="_blank" title="Pages"http://vanseodesign.com/web-design/3-design-layouts/ </a> <br/>
+<a href="http://www.producao.ufrgs.br/arquivos/disciplinas/393_seq_3_tipos_layout.pdf" target="_blank" title="Pages">http://www.producao.ufrgs.br/arquivos/disciplinas/393_seq_3_tipos_layout.pdf</a> <br/>
 <a href="https://stuffandnonsense.co.uk/blog/about/rock-hammer-a-curated-responsive-project-library" target="_blank" title="Pages">stuffandnonsense.co.uk/blog/about/rock-hammer-a-curated-responsive-project-library </a> <br/>
