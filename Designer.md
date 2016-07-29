@@ -41,7 +41,7 @@ O Layout Z se caracteriza pela pela facilidade ao juntar a forma e objetividade.
 ```
 <li class="comment-container">
 	<div class="comment-meta">
-		<img src=https://sites.google.com/site/jarbascltr/img_ref/download.png" alt="Lauout - Z" />		<h4 class="comment-name"><a href="#">Jarbas Coltro</a></h4>
+		<img src="https://sites.google.com/site/jarbascltr/img_ref/download.png" alt="Lauout - Z" />		<h4 class="comment-name"><a href="#">Jarbas Coltro</a></h4>
 	</div>
 	<div class="comment-text">
 		<p>Comentário do artigo sobre Atomic Design</p>
