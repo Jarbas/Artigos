@@ -26,7 +26,7 @@ O Layout Z se caracteriza pela pela facilidade ao juntar a forma e facilidade vi
 		<h4 class="comment-name"><a href="#">Jarbas Coltro</a></h4>
 	</div>
 	<div class="comment-text">
-		<p>Comentário do Layout Z/p>
+		<p>Comentário do Layout Z</p>
 	</div>
 </li>
 
@@ -65,10 +65,24 @@ O Layout Grid  e um dos componentes mais utilizados para construção de layouts
 ```
 <li class="comment-container">
 	<div class="comment-meta">
-		<img src="https://sites.google.com/site/jarbascltr/img_ref/download.png" alt="Lauout - Z" />		<h4 class="comment-name"><a href="#">Jarbas Coltro</a></h4>
+		<img src="https://sites.google.com/site/jarbascltr/img_ref/wireframe-bare.png" alt="Lauout - Grid" />		<h4 class="comment-name"><a href="#">Jarbas Coltro</a></h4>
 	</div>
 	<div class="comment-text">
-		<p>Comentário do Lauout F</p>
+		<p>Comentário do Lauout Grid</p>
+	</div>
+</li>
+
+<h2>  </h2>
+
+A regra dos terços é um exercício visual onde o fotógrafo olha pelo visor ou ecrã para o cenário que quer fotografar e divide-o, mentalmente, em três terços verticais e horizontais para obter um total de nove quadrados.
+
+
+<li class="comment-container">
+	<div class="comment-meta">
+		<img src="https://sites.google.com/site/jarbascltr/img_ref/Sem%20t%C3%ADtulo.png" alt="Regra dos Terços" />		<h4 class="comment-name"><a href="#">Jarbas Coltro</a></h4>
+	</div>
+	<div class="comment-text">
+		<p>Comentário do Regra dos Terços</p>
 	</div>
 </li>
 
