@@ -6,12 +6,13 @@
 
 <article>
 
-
 <h1> TEORIAS DE DESIGN E DESIGN RESPONSIVO </h1> 
 
 <h2> Layout - Z </h2>
 
 O Layout Z se caracteriza pela pela facilidade ao juntar a forma e facilidade visual com objetividade. Baseado no diagrama de Gutenberg que descreve um padrão geral os olhos se movem através quando se olha para uniformemente distribuída informação. Projetos que seguem Gutenberg estão a ser dito em harmonia com a gravidade leitura natural. Este método descreve os itens abaixo:
+
+<h2> Características Layout - Z </h2>
 
 ```html
 * Área óptica primária localizada no topo / esquerda
@@ -31,9 +32,11 @@ O Layout Z se caracteriza pela pela facilidade ao juntar a forma e facilidade vi
 
 <h2> Layout - F </h2>
 
-<h1> Resumo </h1> 
 
 O Layout F e um metodo de construção de web site que busca a melhor disposição da informação para a leitura. Estudos mostram que os os olhos dos leitores trafegam sobre as informações do web site formando uma letra F. 
+
+
+<h2> Características Layout - F </h2>
 
 ```html
 * A marca-marca e navegação ocupam a atenção do visitante em primeiro lugar.
@@ -50,11 +53,9 @@ O Layout F e um metodo de construção de web site que busca a melhor disposiç�
 	</div>
 </li>
 
-<h2> Layout - F </h2>
+<h2> Layout - Grid </h2>
 
-<h1> Resumo </h1> 
-
-O Layout F e um metodo de construção de web site que busca a melhor disposição da informação para a leitura. Estudos mostram que os os olhos dos leitores trafegam sobre as informações do web site formando uma letra F. 
+O Layout Grid  e um dos componentes mais utilizados para construção de layouts de websites. É um elemento técnico-formal formado por um conjunto de linhas auxiliares na vertical e horizontal. A função principal do Grid é organizar as informações dentro de uma estrutura, deixando padronizado as informações.
 
 ```html
 * A marca-marca e navegação ocupam a atenção do visitante em primeiro lugar.
