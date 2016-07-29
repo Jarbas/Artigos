@@ -18,11 +18,14 @@ O Layout Z se caracteriza pela pela facilidade ao juntar a forma e objetividade.
 * Fraco área de pousio localizado na parte inferior / esquerda
 * Área do terminal localizado na parte inferior / direita
 ```
-
+<li class="comment-container">
 	<div class="comment-meta">
 		<img src="https://d60f479a-a-62cb3a1a-s-sites.googlegroups.com/site/jarbascltr/img_ref/FLUXO_ARTIGO.png?attachauth=ANoY7cpYRz76MEiT2c8cF2K4elC981ttn0RIomjMspdogGzP-sL6PXNIiErP1-xPddiidfgznnxJjfZJXRCP79hv5SM0-F82QCeTtA7rb3Q7E17XTGPpJj2kiqfuDMdM-xFHTRnXdvuXzrpCV4-f34eTip-I5rKb3jL8OqrtpW9GPwd6VM6uXyoF3l9NCf9L9qz6ZLYH7fh-te_6PAUcqxHIabe5kOETbMvkLM0H3fUE3RaFfpifjlg%3D&attredirects=0" alt="Avatar" />		<h4 class="comment-name"><a href="#">Jarbas Coltro</a></h4>
 	</div>
-
+	<div class="comment-text">
+		<p>Comentário do artigo sobre Atomic Design</p>
+	</div>
+</li>
 
 <h2> Artigo de revisão de Atomic Design </h2> 
 
