@@ -7,7 +7,7 @@
 <article>
 
 
-<h1> Artigo sobre layout e designer responsivo  </h1> 
+<h1> TEORIAS DE DESIGN E DESIGN RESPONSIVO </h1> 
 
 
 <h2> Layout - Z </h2>
@@ -36,10 +36,10 @@ O Layout Z se caracteriza pela pela facilidade ao juntar a forma e objetividade.
 O Layout Z se caracteriza pela pela facilidade ao juntar a forma e objetividade.Baseado no diagrama de Gutenberg que descreve um padrão geral os olhos se movem através quando se olha para uniformemente distribuída informação. Projetos que seguem Gutenberg estão a ser dito em harmonia com a gravidade leitura natural. Este método descreve os itens abaixo:
 
 ```html
-* Área óptica primária localizada no topo / esquerda
-* Strong área de pousio localizado no topo / direita
-* Fraco área de pousio localizado na parte inferior / esquerda
-* Área do terminal localizado na parte inferior / direita
+* A marca-marca e navegação ocupam a atenção do visitante em primeiro lugar.
+* Dentro da estrutura do concurso, imagens receber o maior nível de atenção.
+* Manchetes vir em seguida.
+* O texto aparece a ser digitalizado, não ler cuidadosamente.
 ```
 <li class="comment-container">
 	<div class="comment-meta">
@@ -49,6 +49,7 @@ O Layout Z se caracteriza pela pela facilidade ao juntar a forma e objetividade.
 		<p>Comentário do artigo sobre Atomic Design</p>
 	</div>
 </li>
+
 
 <h2> Artigo de revisão de Atomic Design </h2> 
 
