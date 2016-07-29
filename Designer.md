@@ -9,7 +9,6 @@
 
 <h1> TEORIAS DE DESIGN E DESIGN RESPONSIVO </h1> 
 
-
 <h2> Layout - Z </h2>
 
 O Layout Z se caracteriza pela pela facilidade ao juntar a forma e facilidade visual com objetividade. Baseado no diagrama de Gutenberg que descreve um padrão geral os olhos se movem através quando se olha para uniformemente distribuída informação. Projetos que seguem Gutenberg estão a ser dito em harmonia com a gravidade leitura natural. Este método descreve os itens abaixo:
@@ -22,10 +21,11 @@ O Layout Z se caracteriza pela pela facilidade ao juntar a forma e facilidade vi
 ```
 <li class="comment-container">
 	<div class="comment-meta">
-		<img src="https://d60f479a-a-62cb3a1a-s-sites.googlegroups.com/site/jarbascltr/img_ref/FLUXO_ARTIGO.png?attachauth=ANoY7cpYRz76MEiT2c8cF2K4elC981ttn0RIomjMspdogGzP-sL6PXNIiErP1-xPddiidfgznnxJjfZJXRCP79hv5SM0-F82QCeTtA7rb3Q7E17XTGPpJj2kiqfuDMdM-xFHTRnXdvuXzrpCV4-f34eTip-I5rKb3jL8OqrtpW9GPwd6VM6uXyoF3l9NCf9L9qz6ZLYH7fh-te_6PAUcqxHIabe5kOETbMvkLM0H3fUE3RaFfpifjlg%3D&attredirects=0" alt="Layout - Z" />		<h4 class="comment-name"><a href="#">Jarbas Coltro</a></h4>
+		<img src="https://d60f479a-a-62cb3a1a-s-sites.googlegroups.com/site/jarbascltr/img_ref/FLUXO_ARTIGO.png?attachauth=ANoY7cpYRz76MEiT2c8cF2K4elC981ttn0RIomjMspdogGzP-sL6PXNIiErP1-xPddiidfgznnxJjfZJXRCP79hv5SM0-F82QCeTtA7rb3Q7E17XTGPpJj2kiqfuDMdM-xFHTRnXdvuXzrpCV4-f34eTip-I5rKb3jL8OqrtpW9GPwd6VM6uXyoF3l9NCf9L9qz6ZLYH7fh-te_6PAUcqxHIabe5kOETbMvkLM0H3fUE3RaFfpifjlg%3D&attredirects=0" alt="Layout - Z" />		
+		<h4 class="comment-name"><a href="#">Jarbas Coltro</a></h4>
 	</div>
 	<div class="comment-text">
-		<p>Comentário do artigo sobre Atomic Design</p>
+		<p>Comentário do Layout Z/p>
 	</div>
 </li>
 
@@ -33,7 +33,7 @@ O Layout Z se caracteriza pela pela facilidade ao juntar a forma e facilidade vi
 
 <h1> Resumo </h1> 
 
-O Layout F se caracteriza pela pela facilidade ao juntar a forma e objetividade.Baseado no diagrama de Gutenberg que descreve um padrão geral os olhos se movem através quando se olha para uniformemente distribuída informação. Projetos que seguem Gutenberg estão a ser dito em harmonia com a gravidade leitura natural. Este método descreve os itens abaixo:
+O Layout F e um metodo de construção de web site que busca a melhor disposição da informação para a leitura. Estudos mostram que os os olhos dos leitores trafegam sobre as informações do web site formando uma letra F. 
 
 ```html
 * A marca-marca e navegação ocupam a atenção do visitante em primeiro lugar.
@@ -46,10 +46,30 @@ O Layout F se caracteriza pela pela facilidade ao juntar a forma e objetividade.
 		<img src="https://sites.google.com/site/jarbascltr/img_ref/download.png" alt="Lauout - Z" />		<h4 class="comment-name"><a href="#">Jarbas Coltro</a></h4>
 	</div>
 	<div class="comment-text">
-		<p>Comentário do artigo sobre Atomic Design</p>
+		<p>Comentário do Lauout F</p>
 	</div>
 </li>
 
+<h2> Layout - F </h2>
+
+<h1> Resumo </h1> 
+
+O Layout F e um metodo de construção de web site que busca a melhor disposição da informação para a leitura. Estudos mostram que os os olhos dos leitores trafegam sobre as informações do web site formando uma letra F. 
+
+```html
+* A marca-marca e navegação ocupam a atenção do visitante em primeiro lugar.
+* Dentro da estrutura do concurso, imagens receber o maior nível de atenção.
+* Manchetes vir em seguida.
+* O texto aparece a ser digitalizado, não ler cuidadosamente.
+```
+<li class="comment-container">
+	<div class="comment-meta">
+		<img src="https://sites.google.com/site/jarbascltr/img_ref/download.png" alt="Lauout - Z" />		<h4 class="comment-name"><a href="#">Jarbas Coltro</a></h4>
+	</div>
+	<div class="comment-text">
+		<p>Comentário do Lauout F</p>
+	</div>
+</li>
 
 <h2> Artigo de revisão de Atomic Design </h2> 
 
