@@ -1,7 +1,7 @@
 <h5> Unoesc Chapecó </h5> 
 <h5> Pós-graduação em Desenvolvimento Web, Cloud e dispositivos móveis - WebMob </h5> 
-<h5> Disciplina: HTML5+CSS3 </h5> 
-<h5> Professor: Diego </h5>  
+<h5> Disciplina: FERRAMENTAS DE EDIÇÃO E CRIAÇÃO DE LAYOUTS </h5> 
+<h5> Professor: DIEGO NAUJALIS DOS SANTOS </h5>  
 <h5> Acadêmico(a): Jarbas Coltro</h5> 
 
 <article>
